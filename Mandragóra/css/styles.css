@@ -1,0 +1,25 @@
+#logo {
+    width: 300px;
+}
+
+body {
+    background-image: url(../img/imageedit_3_6008850905.jpg);
+    background-attachment: fixed;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#mandrakep {
+    width: 1000px;
+}
+
+a, a:link, a:hover, a:active, a:visited {
+    text-decoration: none;
+}
+
+#imglist {
+    height: 300px;
+    border-radius: 25px;
+    box-shadow: 20px 20px 30px rgba(180, 110, 184, 0.9);
+}
